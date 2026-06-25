@@ -6,7 +6,6 @@ This repository contains my submission for the AI Knowledge Assistant QA assessm
 
 The objective of the assessment was to evaluate the application from a manual QA perspective by identifying high-risk scenarios, designing a regression suite, validating access controls, and documenting defects.
 
----
 
 ## Scope
 
@@ -20,7 +19,6 @@ The assessment focused on:
 - Prompt injection testing
 - Unsupported query handling
 
----
 
 ## Deliverables
 
@@ -29,7 +27,7 @@ The assessment focused on:
 - Golden Question Regression Suite
 - Risk-based testing approach
 
----
+
 
 ## Defects Identified
 
@@ -38,13 +36,13 @@ The assessment focused on:
 - In Review document returned to an unauthorized user
 - Citation validation issue (if reproducible)
 
----
+
 
 ## Test Approach
 
 The application was tested manually using a risk-based approach, prioritizing business-critical areas such as document lifecycle validation, access control, citation accuracy, and prompt injection.
 
----
+
 
 ## Repository Structure
 
@@ -55,7 +53,7 @@ TestData/
 Assets/
 ```
 
----
+
 
 ## Tools Used
 
